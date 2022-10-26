@@ -3,7 +3,6 @@ import gift from "../../assets/gift.png";
 import ad from "../../assets/ad.png";
 import { Users } from "../../dummyData";
 import Online from "../online/Online";
-import person1 from "../../assets/person/1.jpeg";
 
 export default function Rightbar({ profile }) {
   const HomeRightBar = () => {

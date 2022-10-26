@@ -1,9 +1,6 @@
 import "./post.css";
-import person1 from "../../assets/person/1.jpeg";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
-import textImage from "../../assets/post/1.jpeg";
 import heart from "../../assets/heart.png";
-import like from "../../assets/like.png";
 import { Users } from "../../dummyData";
 import { useState } from "react";
 
